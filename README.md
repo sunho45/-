@@ -1,4 +1,6 @@
-# 단위 벡터
+# 벡터
+
+## 단위 벡터
 ![image](https://user-images.githubusercontent.com/100903674/192938841-ee01791a-3c70-4293-9422-8ea9e7d8b529.png)
 
 ## 벡터의 내적
@@ -14,6 +16,35 @@
 
 ![image](https://user-images.githubusercontent.com/100903674/192962152-06901985-9717-46db-a440-db75de42c80b.png)
 
-직교 좌표계
+## 직교 좌표계
 
 ![image](https://user-images.githubusercontent.com/100903674/192962367-8be22a50-758f-461b-b927-4ceb12c4f414.png)
+
+```
+좌표값으로 (x,y,z) 가진다
+```
+## 원기둥 좌표계
+
+## 벡터의 미분(기울기를 구하는 법)
+
+![image](https://user-images.githubusercontent.com/100903674/192965863-e1460044-4b90-48cb-b5fb-39f2ca3444b0.png)
+
+## 벡터의 발산
+
+![image](https://user-images.githubusercontent.com/100903674/192966801-6f1cf596-2d23-4b5c-b073-4749c197d946.png)
+
+벡터의 발산은 나가는양과 들어오는 양의 차이이다
+
+![image](https://user-images.githubusercontent.com/100903674/192967088-7c772281-0a93-4674-b457-5eb84deec6ae.png)
+
+이경우 벡터의 양이 늘어나며
+
+![image](https://user-images.githubusercontent.com/100903674/192967233-72d0934f-3112-40d3-992a-4b86738d3224.png)
+
+음수의 경우 벡터의 양은 줄어든다
+
+![image](https://user-images.githubusercontent.com/100903674/192968279-477b64a6-f5c6-41ce-b32d-940601ec8188.png)
+
+
+
+
