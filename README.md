@@ -43,7 +43,11 @@
 
 음수의 경우 벡터의 양은 줄어든다
 
-![image](https://user-images.githubusercontent.com/100903674/192968279-477b64a6-f5c6-41ce-b32d-940601ec8188.png)
+![image](https://user-images.githubusercontent.com/100903674/192969164-7dc69c68-5c64-4c23-a693-d4b9fde8ac67.png)
+
+## 벡터의 회전
+
+![image](https://user-images.githubusercontent.com/100903674/192969533-34814406-bbce-4587-9f55-2d0e38851fc9.png)
 
 
 
