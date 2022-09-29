@@ -57,6 +57,12 @@
 
 ![image](https://user-images.githubusercontent.com/100903674/192994961-e505238f-0015-49aa-83c4-d1244a46ec22.png)
 
-힘의 값이 양수이면 척력이 음수이면 서로간의 인력이 
+힘의 값이 양수이면 척력이 음수이면 서로간의 인력이 작용한다
+
+## 전계
+
+
+
+![image](https://user-images.githubusercontent.com/100903674/193036923-9996cb85-a480-48b9-a142-07a88daf7e9a.png)
 
 
