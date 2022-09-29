@@ -65,4 +65,4 @@
 
 ![image](https://user-images.githubusercontent.com/100903674/193036923-9996cb85-a480-48b9-a142-07a88daf7e9a.png)
 
-
+전계는 중첩성을 가진다.
