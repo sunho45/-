@@ -66,3 +66,10 @@
 ![image](https://user-images.githubusercontent.com/100903674/193036923-9996cb85-a480-48b9-a142-07a88daf7e9a.png)
 
 전계는 중첩성을 가진다.
+
+
+## 전위
+
+![image](https://user-images.githubusercontent.com/100903674/193041879-19ead24c-1982-447f-a82c-45ebe8c4a893.png)
+
+## 가우스의 법칙
