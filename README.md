@@ -25,6 +25,9 @@
 ```
 ## 원기둥 좌표계
 
+![image](https://user-images.githubusercontent.com/100903674/193321527-bd523e41-f008-48ad-85fb-c3004a1933c1.png)
+
+
 ## 벡터의 미분(기울기를 구하는 법)
 
 ![image](https://user-images.githubusercontent.com/100903674/192965863-e1460044-4b90-48cb-b5fb-39f2ca3444b0.png)
@@ -50,6 +53,16 @@
 ![image](https://user-images.githubusercontent.com/100903674/192969533-34814406-bbce-4587-9f55-2d0e38851fc9.png)
 
 ![image](https://user-images.githubusercontent.com/100903674/192970675-1f3e1573-78c9-46f7-a40f-848655a7a9cc.png)
+
+## 벡터의 적분
+
+![image](https://user-images.githubusercontent.com/100903674/193321100-b19f3036-3847-4ce5-9761-aabc17c6269e.png)
+
+
+
+
+
+
 
 ## 쿨롱의 법칙
 
