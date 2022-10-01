@@ -224,4 +224,8 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/193041879-19ead24c-1982-447f-a82c-45ebe8c4a893.png)
 
+![image](https://user-images.githubusercontent.com/100903674/193421426-d1bc70ee-d12f-47b3-b023-7dbd0db7b9fa.png)
+
+
+
 ## 가우스의 법칙
