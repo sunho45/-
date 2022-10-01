@@ -206,7 +206,7 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/192994894-c30695ca-9470-4793-ada2-85b4bd11a29d.png)
 
-![image](https://user-images.githubusercontent.com/100903674/192994961-e505238f-0015-49aa-83c4-d1244a46ec22.png)
+![image](https://user-images.githubusercontent.com/100903674/193396282-514a9eef-9926-496f-a8a5-79a3e0f379e0.png)
 
 힘의 값이 양수이면 척력이 음수이면 서로간의 인력이 작용한다
 
@@ -214,7 +214,8 @@ ex)
 
 
 
-![image](https://user-images.githubusercontent.com/100903674/193036923-9996cb85-a480-48b9-a142-07a88daf7e9a.png)
+![image](https://user-images.githubusercontent.com/100903674/193396308-3de4b343-187d-4444-a753-6cdad8c38591.png)
+
 
 전계는 중첩성을 가진다.
 
