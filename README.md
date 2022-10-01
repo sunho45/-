@@ -27,6 +27,14 @@
 
 ![image](https://user-images.githubusercontent.com/100903674/193321527-bd523e41-f008-48ad-85fb-c3004a1933c1.png)
 
+![image](https://user-images.githubusercontent.com/100903674/193386618-c7a3e7f6-75f2-40f1-9592-4af8870ba2a8.png)
+
+## 구면좌표계
+
+![image](https://user-images.githubusercontent.com/100903674/193386744-c9e77e59-3a2d-4b41-998f-67dabad26005.png)
+
+![image](https://user-images.githubusercontent.com/100903674/193388772-1e123069-0b73-42a3-a4c1-bc00953fc56e.png)
+
 
 ## 벡터의 미분(기울기를 구하는 법)
 
