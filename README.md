@@ -189,6 +189,9 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/193036923-9996cb85-a480-48b9-a142-07a88daf7e9a.png)
 
+
+![image](https://user-images.githubusercontent.com/100903674/193396247-40bd7d2c-083d-4f98-afdb-3d1a360c2103.png)
+
 전계는 중첩성을 가진다.
 
 
