@@ -65,11 +65,12 @@
 
 ## 벡터의 적분
 
+### 선적분
 ![image](https://user-images.githubusercontent.com/100903674/193321100-b19f3036-3847-4ce5-9761-aabc17c6269e.png)
 ex)
 ![image](https://user-images.githubusercontent.com/100903674/193322068-29006cb5-480a-4fdd-bf73-fd62a7d91181.png)
 
-
+### 면적분
 
 
 
