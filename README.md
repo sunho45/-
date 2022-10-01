@@ -33,7 +33,8 @@
 
 ![image](https://user-images.githubusercontent.com/100903674/193386744-c9e77e59-3a2d-4b41-998f-67dabad26005.png)
 
-![image](https://user-images.githubusercontent.com/100903674/193388772-1e123069-0b73-42a3-a4c1-bc00953fc56e.png)
+![image](https://user-images.githubusercontent.com/100903674/193390030-03c0d71a-d6d2-46c7-b49d-38f669f44744.png)
+
 
 
 ## 벡터의 미분(기울기를 구하는 법)
