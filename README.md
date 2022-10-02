@@ -229,3 +229,6 @@ ex)
 
 
 ## 가우스의 법칙
+
+![image](https://user-images.githubusercontent.com/100903674/193443951-211ff581-9fb6-4ba7-bd7f-56e74a93b01f.png)
+
