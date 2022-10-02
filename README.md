@@ -119,6 +119,8 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/193390030-03c0d71a-d6d2-46c7-b49d-38f669f44744.png)
 
+![image](https://user-images.githubusercontent.com/100903674/193458722-ea6d4ef7-3f8b-4faf-9422-ac6bfaac35f8.png)
+
 
 
 ## 벡터의 미분(기울기를 구하는 법)
