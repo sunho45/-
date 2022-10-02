@@ -232,3 +232,7 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/193443951-211ff581-9fb6-4ba7-bd7f-56e74a93b01f.png)
 
+## 전속밀도
+
+![image](https://user-images.githubusercontent.com/100903674/193449512-462d3255-ef5f-4e03-bcd8-0021b75f79d0.png)
+
