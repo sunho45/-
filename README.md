@@ -171,7 +171,17 @@ ex)
 ![image](https://user-images.githubusercontent.com/100903674/193393320-e4fb4070-2d92-4fa0-98fb-c04b6e678f69.png)
 
 
+### 발산 정리
 
+![image](https://user-images.githubusercontent.com/100903674/193460414-161eb5be-12e0-44af-a0bd-7544c6fc04d0.png)
+
+내부의 미소체적이 발산하는 유체는 일부 상쇄된다 결국엔 이러한 덩어리를 구성하는 미소체적이 내뿜는 유체의 합은 
+
+![image](https://user-images.githubusercontent.com/100903674/193460587-b51dba56-4c9e-423c-aefb-aff4ef856ef5.png)
+3D무체의 곡면을 통과하는 유체의 양과 같다 따라서 
+
+![image](https://user-images.githubusercontent.com/100903674/193460788-c0fcd842-9940-439a-a784-20d2a7e6c709.png)
+을 
 #### 직교 좌표계
 
 #### 원통 좌표계
