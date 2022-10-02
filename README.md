@@ -218,6 +218,9 @@ ex)
 
 
 전계는 중첩성을 가진다.
+## 각각 전하 밀도
+
+![image](https://user-images.githubusercontent.com/100903674/193457667-90b35da1-edc6-4e68-bab8-e10f50d7d740.png)
 
 
 ## 전위
