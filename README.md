@@ -3,6 +3,11 @@
 ## 단위 벡터
 ![image](https://user-images.githubusercontent.com/100903674/192938841-ee01791a-3c70-4293-9422-8ea9e7d8b529.png)
 
+### 벡터를 나타내는 식
+
+![image](https://user-images.githubusercontent.com/100903674/193457768-3529bf2c-6b7d-408c-8877-aaa6341f1a9b.png)
+
+
 ## 벡터의 내적
 
 ![image](https://user-images.githubusercontent.com/100903674/192939921-187ff9f5-1ecc-4047-9801-462ad2854f0c.png)
