@@ -256,6 +256,18 @@ ex)
 
 ![image](https://user-images.githubusercontent.com/100903674/193449512-462d3255-ef5f-4e03-bcd8-0021b75f79d0.png)
 
+## 전류밀도
+![image](https://user-images.githubusercontent.com/100903674/193500760-766d299b-e1f4-4b35-8387-609388946173.png)
+
+![image](https://user-images.githubusercontent.com/100903674/193500777-f3020a19-f68d-4657-91f0-5e92ae036c05.png)
+다음과 같이 면을 지나는 전류밀도 벡터를의 합을 측정하면 전류가 된다.
+
+따라서 식은 면적분의 식을 적용해서
+
+![image](https://user-images.githubusercontent.com/100903674/193501325-1990921c-6087-4796-8d33-258b49cf9dcf.png)
+
+
+
 ## 전하보존원리
 체적 내에서 전하의 시간대비 감소율=체적을 둘러싼 폐곡면을 통해 밖으로 흐르는 순
 
