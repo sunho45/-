@@ -269,5 +269,11 @@ ex)
 
 
 ## 전하보존원리
-체적 내에서 전하의 시간대비 감소율=체적을 둘러싼 폐곡면을 통해 밖으로 흐르는 순
+체적 내에서 전하의 시간대비 감소율=체적을 둘러싼 폐곡면을 통해 밖으로 흐르는 순전류
+
+## 비저항
+
+![image](https://user-images.githubusercontent.com/100903674/193502812-d01c9f5c-dc7e-4148-a79c-376a8c4fc53a.png)
+
+![image](https://user-images.githubusercontent.com/100903674/193503383-60a513bc-997c-46ed-9b78-6e5e56dfa684.png)
 
