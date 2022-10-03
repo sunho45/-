@@ -155,6 +155,17 @@ ex)
 ![image](https://user-images.githubusercontent.com/100903674/193321100-b19f3036-3847-4ce5-9761-aabc17c6269e.png)
 ex)
 ![image](https://user-images.githubusercontent.com/100903674/193322068-29006cb5-480a-4fdd-bf73-fd62a7d91181.png)
+#### 스칼라의 선적분 ex)
+![image](https://user-images.githubusercontent.com/100903674/193515547-61c750f4-b3b2-4c47-9882-b6a49f865825.png)
+
+
+#### 벡터의 선적분 ex)
+
+![image](https://user-images.githubusercontent.com/100903674/193515148-50dd67d8-59bb-43ea-b4d3-225b8b32bf0b.png)
+
+
+
+
 
 ### 면적분
 면적분은 곡면 S를 통과하는 초당 유체의 부피이다
@@ -169,6 +180,13 @@ ex)
 
 
 ![image](https://user-images.githubusercontent.com/100903674/193393320-e4fb4070-2d92-4fa0-98fb-c04b6e678f69.png)
+
+#### 스칼라의 면적분
+![image](https://user-images.githubusercontent.com/100903674/193516544-31220568-029f-4a6a-bcb9-96ce8642234a.png)
+f=z이다.
+
+#### 벡터의 면적분
+![image](https://user-images.githubusercontent.com/100903674/193516707-c3d8ac71-60a9-4961-80f7-1639af417ecb.png)
 
 
 ### 발산 정리
