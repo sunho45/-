@@ -297,3 +297,9 @@ f=z이다.
 
 ![image](https://user-images.githubusercontent.com/100903674/193505003-dcdd9970-9950-4ef9-af1d-4d3cc314ad78.png)
 
+저항공식
+```
+R=L/S*
+|E|=V/L
+
+```
