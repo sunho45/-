@@ -304,6 +304,9 @@ R=L/S*
 
 ```
 ## 전속밀도 전하밀도 관계
+![image](https://user-images.githubusercontent.com/100903674/194815091-e4175006-a021-4c85-aad9-a7cf427cff8c.png)
+
+
 ![image](https://user-images.githubusercontent.com/100903674/194811635-8f54d6d8-fa54-4a46-9d5d-e06339328731.png)
 
 
